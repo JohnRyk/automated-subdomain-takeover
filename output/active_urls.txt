@@ -1,3 +1,4 @@
+http://dlxtag.lenovo.net
 http://edm.tuya.com
 http://go.tuya.com
 http://resource.tuya.com
@@ -20,6 +21,7 @@ https://93b5db8b476f5f0c-hotel.console.tuya.com
 https://9632f6b18fa37f57-hotel.console.tuya.com
 https://a97ad930f5f76db7-hotel.console.tuya.com
 https://a9dcfcbca3804fd5.hotel.console.tuya.com
+https://aio.lenovo.net
 https://apartment.console.tuya.com
 https://app.tuya.com
 https://auth.tuya.com
@@ -47,6 +49,7 @@ https://fe3d92aadc21e8f6-hotel.console.tuya.com
 https://feit.app.tuya.com
 https://feit.appflip.tuya.com
 https://global.tuya.com
+https://hci.lenovo.net
 https://hotel.tuya.com
 https://huoxian.cn
 https://iot.tuya.com
@@ -55,9 +58,15 @@ https://lighting.console.tuya.com
 https://lighting.tuya.com
 https://living.tuya.com
 https://mail.tuya.com
+https://onlineservice.yangtian.lenovo.net
 https://ops.tuya.com
 https://os.tuya.com
 https://park.console.tuya.com
+https://s1n1.lms.lenovo.net
+https://s1n2.lms.lenovo.net
+https://s2n1.lms.lenovo.net
+https://s2n2.lms.lenovo.net
+https://saas.lenovo.net
 https://sailormoon.tuya.com
 https://security.console.tuya.com
 https://smart.tuya.com
@@ -69,4 +78,8 @@ https://tuya.com
 https://tuyasmart.app.tuya.com
 https://tuyasmart.appflip.tuya.com
 https://www.huoxian.cn
+https://www.lenovo.net
 https://www.tuya.com
+https://yangtian.lenovo.net
+https://yun.lenovo.net
+https://yunpan.lenovo.net
