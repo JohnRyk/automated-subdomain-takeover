@@ -1,12 +1,1 @@
 
-http://mediatracking.mcd.cn
-https://api.mcd.cn
-https://api.open.mcd.cn
-https://cdn.mcd.cn
-https://d.mcd.cn
-https://m.mcd.cn
-https://motf.mcd.cn
-https://sqcheckin.mcd.cn
-https://sqm.mcd.cn
-https://vpn.mcd.cn
-https://vpn2.mcd.cn
