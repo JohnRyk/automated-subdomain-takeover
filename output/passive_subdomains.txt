@@ -16,6 +16,8 @@ api-cnprod-slb.airbnb.cn
 api-cnprod.airbnb.cn
 api-staging.airbnb.cn
 api.airbnb.cn
+api.mcd.cn
+api.open.mcd.cn
 assets.airbnb.cn
 aws-cn-slb-test-b1.airbnb.cn
 aws-cn-slb-test-b2.airbnb.cn
@@ -28,12 +30,17 @@ aws-cn-test-b3.airbnb.cn
 aws-cn-test.airbnb.cn
 bessie-assets.airbnb.cn
 blog.airbnb.cn
+cdn.mcd.cn
 charon-elb.airbnb.cn
 charon.airbnb.cn
 cnperf-test.airbnb.cn
+d.mcd.cn
 fapiao.airbnb.cn
 fr.airbnb.cn
 iac-sip1.airbnb.cn
+m.mcd.cn
+mediatracking.mcd.cn
+motf.mcd.cn
 next.airbnb.cn
 origin-api.airbnb.cn
 origin-www-ali-test.airbnb.cn
@@ -44,6 +51,10 @@ slb-api.airbnb.cn
 slb-bessie-assets.airbnb.cn
 slb-www-ali.airbnb.cn
 slb-www.airbnb.cn
+sqcheckin.mcd.cn
+sqm.mcd.cn
+vpn.mcd.cn
+vpn2.mcd.cn
 webrtc-demo.airbnb.cn
 wechat-callback.airbnb.cn
 ws-test.airbnb.cn
